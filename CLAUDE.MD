@@ -201,7 +201,7 @@ LLM0X como concluído.
 
 | #     | Vulnerabilidade                 | Status       |
 |-------|---------------------------------|--------------|
-| LLM01 | Prompt Injection                | [ ] pendente |
+| LLM01 | Prompt Injection                | [x] concluído |
 | LLM02 | Sensitive Info Disclosure       | [ ] pendente |
 | LLM03 | Supply Chain                    | [ ] pendente |
 | LLM04 | Data and Model Poisoning        | [ ] pendente |
