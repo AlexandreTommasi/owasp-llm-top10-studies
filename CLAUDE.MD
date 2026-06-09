@@ -192,7 +192,7 @@ LLM0X como concluído.
   as anotações primeiro.
 - Seja direto no feedback. Se eu errei um conceito, fala. Não me poupe.
 - Código sempre funcional. Nada de pseudocódigo nos arquivos .py
-- Perguntas em pt-BR, código e arquivos em inglês (padrão de repo público).
+- Tudo em pt-BR: perguntas, código, comentários e arquivos gerados.
 - Se eu travar em alguma pergunta, pode dar uma dica, mas não a resposta.
 
 ---
